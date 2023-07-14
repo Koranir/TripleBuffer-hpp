@@ -60,7 +60,7 @@ public:
         return latestBuffer;
     }
     inline std::array<Buffer, 3>& _buffers() {
-        return buffers
+        return buffers;
     }
 
 private:
